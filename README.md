@@ -23,17 +23,12 @@
 📊 Power BI Dashboards
 
 	Key dashboards created include:
-	
-	.Sales and Profit Overview: Monthly and yearly trends in sales and profit.
-	
+ 
+	.Sales and Profit Overview: Monthly and yearly trends in sales and profit.	
 	.Top States by Profit: A map and bar chart to highlight the most profitable states.
-
 	.Product-Level Insights: Analysis of top-selling and loss-generating products.
-
 	.Segment & Category Breakdown: Visuals showing performance by segment, category, and sub-category.
-
 	.Shipping Performance: Average shipping time and performance by shipping method.
-
 	.Customer Insights: Top customers by sales and order value.
 
 🧠 Key SQL Analyses
@@ -52,12 +47,8 @@
 🎯 Outcome
 
 	.This project demonstrates key skills in:
-
 	.Data cleaning and transformation
-
 	.Business and operational analysis using SQL
-
 	.Visualization and dashboard design with Power BI
-
 	.Using window functions, ranking, aggregations, and date-based operations
 
