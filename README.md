@@ -31,19 +31,6 @@
 	.Shipping Performance: Average shipping time and performance by shipping method.
 	.Customer Insights: Top customers by sales and order value.
 
-🧠 Key SQL Analyses
-
-	1. Monthly Sales and Profit Trends
-	2. Top 10 States by Total Profit
-	3. Products with Negative Total Profit
-	4. Total Orders and Sales by Segment
-	5. Rank Sub-Categories by Sales within Each Category
-	6. Average Delivery Time (in Days)
-	7. Compare Current Month’s Profit with Previous Month
-	8. Top 10 Most Ordered Products
-	9. Running Total of Sales per Region
-
-
 🎯 Outcome
 
 	.This project demonstrates key skills in:
